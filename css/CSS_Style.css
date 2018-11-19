@@ -1,10 +1,12 @@
 
-.Heading1 {color:#000000;
-    font-size: 2.5em;
+h1, h2, h3, h4, h5 {
+  color:#000000;
     font-family: "BonvenoCF";
-    font-weight: bold;
-    font-size: uppercase;
   }
+
+.Bouldering_font {
+  color: #fff;
+}
 
   header.masterhead {
     padding-top: 10rem;
@@ -31,9 +33,10 @@
       background-color: #607d8b;
     }
 
-    .equipment {
-      background-color: #9e9e9e;
-      color: #000;
+    .bg-equipment {
+      background-color: #ff5722;
+      color: #fff
+      ;
     }
 
 .mb-auto, .my-auto {
@@ -63,9 +66,10 @@
     font-family: "BonvenoCF"
     font-weight: bold;}
 
-body {font-size:100%;
-    color:#000000;}
-p   {font-size:2em;
+body {
+  font-size:100%;
+    color:#9e9e9e;}
+p   {font-size:1.5em;
   color:#000000;}
 ul li {
   color:#000000}
