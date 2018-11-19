@@ -80,13 +80,12 @@ h1, h2, h3, h4, h5 {
 }
 
 
-.body {
+body {
   font-size:100%;
-  background-image: url("Images/Wall.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-    color:#9e9e9e;}
-.p   {font-size:1.5em;
+    color:#9e9e9e;
+    background-image: url("../Images/Wall.jpg");
+  }
+p   {font-size:1.5em;
   color:#000000;}
 .ul .li {
   color:#000000}
