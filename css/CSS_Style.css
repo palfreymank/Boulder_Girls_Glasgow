@@ -64,16 +64,21 @@ h1, h2, h3, h4, h5 {
     background-color: #607d8b;
     font-size: 2.5em;
     font-family: "BonvenoCF"
-    font-weight: bold;}
+    font-weight: bold;}.
 
-body {
+.section {
+  margin-top: 70px;
+}
+
+
+.body {
   font-size:100%;
     color:#9e9e9e;}
-p   {font-size:1.5em;
+.p   {font-size:1.5em;
   color:#000000;}
-ul li {
+.ul .li {
   color:#000000}
-ol li {
+.ol .li {
   color:#000000}
 
   .image {
