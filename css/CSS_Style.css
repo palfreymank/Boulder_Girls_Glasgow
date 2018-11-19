@@ -75,6 +75,7 @@ ul li {
   color:#000000}
 ol li {
   color:#000000}
+
   .image {
     opacity: 1;
     display: block;
@@ -101,8 +102,8 @@ ol li {
     opacity: 1;
   }
   .text {
-  background-color: #4CAF50;
-  color: white;
+  background-color: #ff5722;
+  color: #ffffff;
   font-size: 16px;
   padding: 16px 32px;
 }
