@@ -35,6 +35,11 @@ margin-right: auto;
 margin-left: auto;
 }
 
+.bg-primary {
+  color: #fff;
+  background-color: #607d8b;
+}
+
 .equipment {
   background-color: #9e9e9e;
   color: #000;
