@@ -11,14 +11,22 @@ h1, h2, h3, h4, h5 {
   header.masterhead {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 56px);
-    background-colour: #ff5722;}
+    background-colour: #ffffff;}
 
     .row {
       display: flex;
       flex-wrap: wrap;
       margin-right: -15px;
       margin-left: -15px;
-      margin-top: 70px
+        margin-top: 50px;
+    }
+
+    .row2 {
+      display: flex;
+      flex-wrap: wrap;
+      margin-right: -15px;
+      margin-left: -15px;
+      margin-bottom: 10px;
     }
 
     .container {
