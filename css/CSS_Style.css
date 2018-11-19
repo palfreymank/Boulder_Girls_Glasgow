@@ -35,6 +35,11 @@ margin-right: auto;
 margin-left: auto;
 }
 
+.equipment {
+  background-color: #9e9e9e;
+  color: #000;
+}
+
 .mb-auto, .my-auto {
     margin-bottom: auto!important;
 }
