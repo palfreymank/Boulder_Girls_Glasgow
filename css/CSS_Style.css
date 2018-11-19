@@ -94,11 +94,11 @@ ol li {
     -ms-transform: translate(-50%, -50%);
     text-align: center;
   }
-  .container:hover .image {
+  .container2:hover .image {
     opacity: 0.3;
   }
 
-  .container:hover .middle {
+  .container2:hover .middle {
     opacity: 1;
   }
   .text {
