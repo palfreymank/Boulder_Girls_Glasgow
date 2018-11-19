@@ -2,7 +2,7 @@
 h1, h2, h3, h4, h5 {
   color:#000000;
     font-family: "BonvenoCF";
-  }
+    }
 
 .Bouldering_font {
   color: #fff;
@@ -11,13 +11,14 @@ h1, h2, h3, h4, h5 {
   header.masterhead {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 56px);
-    background-colour: #ffffff;}
+    background-colour: #ff5722;}
 
     .row {
       display: flex;
       flex-wrap: wrap;
       margin-right: -15px;
       margin-left: -15px;
+      margin-top: 70px
     }
 
     .container {
@@ -35,8 +36,7 @@ h1, h2, h3, h4, h5 {
 
     .bg-equipment {
       background-color: #ff5722;
-      color: #fff
-      ;
+      color: #fff;
     }
 
 .mb-auto, .my-auto {
