@@ -94,13 +94,16 @@ ol li {
     -ms-transform: translate(-50%, -50%);
     text-align: center;
   }
-  .container2:hover .image {
+  .imagecontainer:hover .image {
     opacity: 0.3;
   }
 
-  .container2:hover .middle {
+  .imagecontainer:hover .middle {
     opacity: 1;
   }
+
+
+
   .text {
   background-color: #ff5722;
   color: #ffffff;
