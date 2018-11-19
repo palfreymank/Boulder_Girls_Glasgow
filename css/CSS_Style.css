@@ -35,18 +35,6 @@ margin-right: auto;
 margin-left: auto;
 }
 
-.hr {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    border: 0;
-    border-top: 1px solid rgba(0,0,0,.1);
-}
-
-.hr.line_dark {
-  colour: #000000;
-  weight: bold;
-}
-
 .mb-auto, .my-auto {
     margin-bottom: auto!important;
 }
