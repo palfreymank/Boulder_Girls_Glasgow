@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
-<!--jQuery library -->
+<!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
 <!-- Latest compiled Bootstrap JavaScript -->
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<link href="css/CSS_style.css" rel="stylesheet">
 
   <head>
 
@@ -16,13 +18,14 @@
   </head>
 
   <body>
+
+
     <div class="container">
-      <nav class="navbar navbar-inverse navbar-fixed-top​">
-        <div class="container">
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top​" id="mainNav">
           <div class="navbar-header">
             <button type="button"
             class="collapsed navbar-toggle" data-toggle="collapse" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
+            <span class="navbar-toggler-icon">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -31,13 +34,23 @@
           </button>
           <a href="#" class="navbar-BGG">Boulder Girls Glasgow</a>
         </div>
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-9">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">What is bouldering?</a></li>
-            <li><a href="#">Equipment</a></li>
-            <li><a href="#">Meet the Boulder Girls</a></li>
-            <li><a href="#">Where we climb</a></li>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="nav navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#Home">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#Bouldering">What is bouldering?</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-tigger" href="#Equipment">Equipment</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-tigger" href="#BoulderGirls">Meet the Boulder Girls</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-tigger" href="Location">Where we climb</a>
+            </li>
             <li><a href="#">Get in touch</a></li> <!--Insert Link Here -->
           </ul>
         </div>
