@@ -30,6 +30,16 @@ h1, h2, h3, h4, h5 {
       margin-bottom: 10px;
     }
 
+    .row3 {
+      display: flex;
+      flex-wrap: wrap;
+      margin-right: -15px;
+      margin-left: -15px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+
+
     .container {
       width: 100%;
     padding-right: 15px;
